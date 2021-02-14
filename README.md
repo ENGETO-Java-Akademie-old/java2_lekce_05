@@ -39,7 +39,7 @@ Vlákna můžeme vnímat jako zjednodušené procesy (thread = lightweight proce
 ## Životní cyklus
 
  <p align="left">
-  <img src="https://github.com/xthobi/eng_java2_05/blob/main/zivotni_cyklus_vlaken.png" width="600">
+  <img src="https://github.com/ENGETO-Java-Akademie/java2_lekce_05/blob/main/zivotni_cyklus_vlaken.png" width="600">
 </p>
 
 Vlákna se během svého života mohou nacházet v těchto pěti stavech:
